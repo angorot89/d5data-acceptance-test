@@ -1,0 +1,4 @@
+playwright
+drissionpage
+beautifulsoup4
+pandas
